@@ -1,6 +1,5 @@
 from http.server import BaseHTTPRequestHandler
-from typing import Dic
-from datetime import datetime
+from typing import Dict
 from urllib import parse 
 import requests
 
