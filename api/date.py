@@ -1,9 +1,8 @@
 from http.server import BaseHTTPRequestHandler
-from typing import Dict
 from datetime import datetime
 from urllib import parse 
 import platform
-import requests
+
 
 
 class handler(BaseHTTPRequestHandler):
