@@ -1,13 +1,13 @@
 
 
 ## To see the serverless function :
-- First click on this [url]()
+- check the following URL's
 - Then type /api/Hi at the end of the url path
 - You will see the calendar of this year, plus the datetime and week number/month.
 
 
 [1st Link](https://serverless-tawny-nine.vercel.app/api/date)
-[2nd Link](https://serverless-tawny-nine.vercel.app/api/platform?platform=pc)
+[2nd Link](https://serverless-tawny-nine.vercel.app/api/type?type=game)
 
 As can be seen in the picture below: 
 
@@ -16,12 +16,12 @@ As can be seen in the picture below:
 
 ![](assets/serverless3.png)
 
-![](assets/serverless4.png)
+![](assets/serverless5.png)
 
 ## Web Server Gateway Interface
 
-* Paltoform.py   reads a json files form a live api and parse it into my serverless function 
-so from here you can acess other platforms: PC, xbox-series-xs,switch.
+* type.py   reads a json files form a live api and parse it into my serverless function 
+so from here you can  Insert giveaway type, eg: game, loot, beta
 
 you can access other platforms form the [API's url](https://www.gamerpower.com/api-read)
 
