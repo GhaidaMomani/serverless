@@ -20,10 +20,10 @@ As can be seen in the picture below:
 
 ## Web Server Gateway Interface
 
-- You can take the same link 
--  Type /api/Home at the end of the url path 
-- You will see some cool stuff i did For the Stretch Goal
+* Paltoform.py   reads a json files form a live api and parse it into my serverless function 
+so from here you can acess other platforms: PC, xbox-series-xs,switch.
 
+you can access other platforms form the [API's url](https://www.gamerpower.com/api-read)
 
 
 <hr/>
