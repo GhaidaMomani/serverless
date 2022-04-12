@@ -18,6 +18,9 @@ As can be seen in the picture below:
 
 ![](assets/serverless5.png)
 
+## Testing it with Insomnia
+ ![](assets/serverlessTest.png)
+
 ## Web Server Gateway Interface
 
 * type.py   reads a json files form a live api and parse it into my serverless function 
