@@ -7,6 +7,7 @@
 
 
 [1st Link](https://serverless-tawny-nine.vercel.app/api/date)
+
 [2nd Link](https://serverless-tawny-nine.vercel.app/api/type?type=game)
 
 As can be seen in the picture below: 
