@@ -29,6 +29,9 @@ so from here you can  Insert giveaway type, eg: game, loot, beta
 you can access other platforms form the [API's url](https://www.gamerpower.com/api-read)
 
 
+## a glance og our json file 
+![](assets/glanceServerless.png)
+
 <hr/>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
