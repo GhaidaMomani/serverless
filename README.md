@@ -37,4 +37,4 @@ you can access other platforms form the [API's url](https://www.gamerpower.com/a
 
 <p align="right">Ghaida Al Momani, Software Engineer</p>
 <p align="right">Jordan, Amman</p>
-  <p align="right">22, 22 FEB </p>
+  <p align="right">22,12 APR </p>
