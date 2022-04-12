@@ -7,7 +7,7 @@
 
 
 [1st Link](https://serverless-tawny-nine.vercel.app/api/date)
-[2nd ]
+[2nd Link](https://serverless-tawny-nine.vercel.app/api/platform?platform=pc)
 
 As can be seen in the picture below: 
 
@@ -19,6 +19,7 @@ As can be seen in the picture below:
 ![](assets/serverless4.png)
 
 ## Web Server Gateway Interface
+
 - You can take the same link 
 -  Type /api/Home at the end of the url path 
 - You will see some cool stuff i did For the Stretch Goal
